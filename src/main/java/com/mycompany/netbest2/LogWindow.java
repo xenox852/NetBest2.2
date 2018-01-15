@@ -104,6 +104,7 @@ public class LogWindow extends javax.swing.JFrame {
           zalogowany = rs.getInt(1);
           System.out.println(zalogowany);
             }
+      
       if(zalogowany == 1)
       {
           MainWindow zmiana;
